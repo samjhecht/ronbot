@@ -7,8 +7,7 @@ module.exports = function (req, res, next) {
     'For your convenience, the ice machine is located in the basement.',
     'Just f***ing sell!',
     'Do you think this kind of desperation is attractive?',
-    'If you were at a bar, and someone came up to you acting this desperate, would you sleep with them?',
-    'Don\'t dump your cookies on the table the moment you walk in.'
+    'Stop selling after the close?'
   ]
 
   var userName = req.body.user_name;
